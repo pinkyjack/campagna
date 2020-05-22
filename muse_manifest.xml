@@ -1,0 +1,187 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pinkyjack.it" resolutions="1x" timestamp="1559808737541">
+  <folder name="css">
+    <file name="site_global.css" crc="70062404"/>
+    <file name="index.css" crc="322594982" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="druk-medium.woff" crc="452503212"/>
+    <file name="druk-medium.eot" crc="4262100920"/>
+    <file name="druk-medium.svg" crc="406139208"/>
+    <file name="sfprodisplay-regular.woff" crc="4091823361"/>
+    <file name="sfprodisplay-regular.eot" crc="334343388"/>
+    <file name="sfprodisplay-regular.svg" crc="4120665781"/>
+    <file name="sfprodisplay-light.woff" crc="97942535"/>
+    <file name="sfprodisplay-light.eot" crc="4134872801"/>
+    <file name="sfprodisplay-light.svg" crc="4234842979"/>
+    <file name="sfprodisplay-black.woff" crc="4046433176"/>
+    <file name="sfprodisplay-black.eot" crc="384168155"/>
+    <file name="sfprodisplay-black.svg" crc="4066761239"/>
+    <file name="sfprodisplay-medium.woff" crc="139401882"/>
+    <file name="sfprodisplay-medium.eot" crc="3946140240"/>
+    <file name="sfprodisplay-medium.svg" crc="240633764"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form-u2751.php" crc="3900502108" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="form-u2681.php" crc="3854171442" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="telefono-1-u2046-fr.jpg" crc="355372750" ref="phone>index"/>
+    <file name="svg-incollato-358237x594.svg" crc="4060000554" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 358237x594_poster_.png" crc="306989826" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="svg-incollato-542752x339.svg" crc="446128911" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 542752x339_poster_.png" crc="375404794" ref="phone>index"/>
+    <file name="svg-incollato-166987x166.svg" crc="4057246348" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 166987x166_poster_.png" crc="4111204276" ref="phone>index"/>
+    <file name="svg-incollato-213745x164.svg" crc="3894936484" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 213745x164_poster_.png" crc="3833990600" ref="phone>index"/>
+    <file name="svg-incollato-152807x164.svg" crc="57804380" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 152807x164_poster_.png" crc="4137452714" ref="phone>index"/>
+    <file name="svg-incollato-223501x164.svg" crc="4023081133" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 223501x164_poster_.png" crc="455201180" ref="phone>index"/>
+    <file name="svg-incollato-300271x359.svg" crc="408752810" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 300271x359_poster_.png" crc="4056533484" ref="phone>index"/>
+    <file name="svg-incollato-579984x579.svg" crc="3879073599" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 579984x579_poster_.png" crc="4259505117" ref="phone>index"/>
+    <file name="svg-incollato-362792x362.svg" crc="4177596842" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 362792x362_poster_.png" crc="3891519135" ref="phone>index"/>
+    <file name="svg-incollato-26261x26.svg" crc="188354020" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 26261x26_poster_.png" crc="3865624168" ref="phone>index"/>
+    <file name="svg-incollato-97264x97.svg" crc="4075134414" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 97264x97_poster_.png" crc="4138075454" ref="phone>index"/>
+    <file name="svg-incollato-364633x632.svg" crc="250303792" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 364633x632_poster_.png" crc="4067191528" ref="phone>index"/>
+    <file name="svg-incollato-494974x641.svg" crc="390695540" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 494974x641_poster_.png" crc="3935288037" ref="phone>index"/>
+    <file name="svg-incollato-211337x391.svg" crc="3913829453" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 211337x391_poster_.png" crc="524502150" ref="phone>index"/>
+    <file name="svg-incollato-401413x500.svg" crc="296472294" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 401413x500_poster_.png" crc="3900024463" ref="phone>index"/>
+    <file name="svg-incollato-409.svg" crc="3987852534" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 409_poster_.png" crc="53391146" ref="phone>index"/>
+    <file name="svg-incollato-40007x436.svg" crc="4056241486" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 40007x436_poster_.png" crc="134700734" ref="phone>index"/>
+    <file name="svg-incollato-561819x430.svg" crc="381292520" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 561819x430_poster_.png" crc="3888704411" ref="phone>index"/>
+    <file name="svg-incollato-455859x430.svg" crc="37103136" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 455859x430_poster_.png" crc="4071664807" ref="phone>index"/>
+    <file name="mockup2.png" crc="3764109389" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockup3.png" crc="4069817523" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockup4.png" crc="3786728688" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockup5.png" crc="249236731" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index"/>
+    <file name="schermata 2019-06-05 alle 180143-u3548-fr.jpg" crc="4215645241" ref="phone>index"/>
+    <file name="svg-incollato-80.svg" crc="4283373768" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 80_poster_.png" crc="139803226" ref="phone>index"/>
+    <file name="logo-poli-1024x375.png" crc="149370095" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telefono-1.jpg" crc="349204580" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockup2.jpg" crc="3764109389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockup3-u3207-fr.png" crc="454488482" ref="index"/>
+    <file name="mockup4-u3204-fr.jpg" crc="3831475064" ref="index"/>
+    <file name="mockup5.jpg" crc="249236731" ref="index"/>
+    <file name="schermata 2019-06-05 alle 180143.jpg" crc="255217" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-incollato-358237x5942.svg" crc="4060000554" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 358237x594_poster_2.png" crc="306989826" ref="phone>index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3999179143" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="465733103" seo="true" mt="1559808697914" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3788095939" seo="true" mt="1559808632063" redirect="true"/>
+</manifest>
